@@ -69,6 +69,7 @@ requests-oauthlib==2.0.0
 rsa==4.9
 s3transfer==0.7.0
 service-identity==23.1.0
+setuptools==72.1.0
 six==1.16.0
 sqlparse==0.4.4
 txaio==23.1.1
