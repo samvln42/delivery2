@@ -23,7 +23,6 @@ Django==4.2.4
 django-channels==0.7.0
 django-cors-headers==4.3.1
 django-dotenv==1.4.2
-django-rest-framework-nested==0.0.1
 django-storages==1.14.2
 djangorestframework==3.14.0
 djangorestframework-jwt==1.11.0
@@ -46,7 +45,6 @@ MarkupSafe==2.1.5
 msgpack==1.0.7
 mypy-extensions==1.0.0
 mysql-connector-python==8.4.0
-mysqlclient==2.2.0
 oauthlib==3.2.2
 packaging==23.1
 pathspec==0.11.2
